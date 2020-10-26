@@ -13,7 +13,7 @@ import http.cookiejar
 import os
 import ssl
 
-from kerio_vi_sync_conf import *
+from kerio_sync_conf import *
 
 # Skip SSL verification
 if (not os.environ.get('PYTHONHTTPSVERIFY', '') and getattr(ssl, '_create_unverified_context', None)):
