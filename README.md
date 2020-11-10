@@ -35,3 +35,8 @@ step5_bandwidth_and_qos_sync.py
 ```
 kerio_sync_conf.py
 ```
+
+***Sample bash script for consequent syncing***
+```
+kerio.sh
+```
