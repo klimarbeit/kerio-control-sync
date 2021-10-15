@@ -31,7 +31,7 @@ step4_traffic_policy_sync.py
 step5_bandwidth_and_qos_sync.py
 ```
 
-***Cridentials***
+***Credentials***
 ```
 kerio_sync_conf.py
 ```
