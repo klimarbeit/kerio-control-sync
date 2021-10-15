@@ -3,7 +3,7 @@
 # Tested on Kerio OS / Kerio control 9.3.1 build 3465
 # ---------------------------------------------------
 
-# Kerio Control API Manual doesn't contain sufficent info about IpAddressGroups operations (I've founded only
+# Kerio Control API Manual doesn't contain sufficent info about IpAddressGroups operations (I've found only
 # .apply and .reset functions, but there's no get/set/etc...), so we'll use Kerio Connect Admin API Manual
 # https://manuals.gfi.com/en/kerio/api/connect/admin/reference/interfacekerio_1_1web_1_1_ip_address_groups.html
 
